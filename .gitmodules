@@ -1,3 +1,6 @@
 [submodule "dynamic-route"]
 	path = dynamic-route
 	url = https://github.com/snehmehta/dynamic-route
+[submodule "server-driven-ui"]
+	path = server-driven-ui
+	url = https://github.com/snehmehta/server-driven-ui
